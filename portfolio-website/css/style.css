@@ -741,8 +741,7 @@ button:focus-visible {
 }
 
 .hero-line-indent {
-  margin-left:
-    clamp(20px, 8vw, 120px);
+  margin-left: clamp(30px, 5vw, 80px);
 }
 
 .hero-dot {
